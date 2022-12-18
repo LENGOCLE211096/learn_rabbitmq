@@ -1,0 +1,17 @@
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/NewTask/bin/Debug/net6.0/NewTask
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/NewTask/bin/Debug/net6.0/NewTask.deps.json
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/NewTask/bin/Debug/net6.0/NewTask.runtimeconfig.json
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/NewTask/bin/Debug/net6.0/NewTask.dll
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/NewTask/bin/Debug/net6.0/NewTask.pdb
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/NewTask/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/NewTask/obj/Debug/net6.0/NewTask.csproj.AssemblyReference.cache
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/NewTask/obj/Debug/net6.0/NewTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/NewTask/obj/Debug/net6.0/NewTask.AssemblyInfoInputs.cache
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/NewTask/obj/Debug/net6.0/NewTask.AssemblyInfo.cs
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/NewTask/obj/Debug/net6.0/NewTask.csproj.CoreCompileInputs.cache
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/NewTask/obj/Debug/net6.0/NewTask.csproj.CopyComplete
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/NewTask/obj/Debug/net6.0/NewTask.dll
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/NewTask/obj/Debug/net6.0/refint/NewTask.dll
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/NewTask/obj/Debug/net6.0/NewTask.pdb
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/NewTask/obj/Debug/net6.0/NewTask.genruntimeconfig.cache
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/NewTask/obj/Debug/net6.0/ref/NewTask.dll

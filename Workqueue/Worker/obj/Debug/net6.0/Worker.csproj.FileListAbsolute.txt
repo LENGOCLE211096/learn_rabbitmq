@@ -1,0 +1,17 @@
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/Worker/obj/Debug/net6.0/Worker.csproj.AssemblyReference.cache
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/Worker/obj/Debug/net6.0/Worker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/Worker/obj/Debug/net6.0/Worker.AssemblyInfoInputs.cache
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/Worker/obj/Debug/net6.0/Worker.AssemblyInfo.cs
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/Worker/obj/Debug/net6.0/Worker.csproj.CoreCompileInputs.cache
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/Worker/bin/Debug/net6.0/Worker
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/Worker/bin/Debug/net6.0/Worker.deps.json
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/Worker/bin/Debug/net6.0/Worker.runtimeconfig.json
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/Worker/bin/Debug/net6.0/Worker.dll
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/Worker/bin/Debug/net6.0/Worker.pdb
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/Worker/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/Worker/obj/Debug/net6.0/Worker.csproj.CopyComplete
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/Worker/obj/Debug/net6.0/Worker.dll
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/Worker/obj/Debug/net6.0/refint/Worker.dll
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/Worker/obj/Debug/net6.0/Worker.pdb
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/Worker/obj/Debug/net6.0/Worker.genruntimeconfig.cache
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Workqueue/Worker/obj/Debug/net6.0/ref/Worker.dll

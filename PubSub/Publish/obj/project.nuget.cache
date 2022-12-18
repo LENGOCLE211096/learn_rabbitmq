@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bkS6dd3DSiBhE2rdvL3MYeS9tUo/f9nELQr/Ytr8lCuAz6wux1i/1AMZ6ejgtzVPl/R3inc2sQV1xENf728wUQ==",
+  "success": true,
+  "projectFilePath": "/Users/lengocle/Documents/WorkPlace/RabbitMq/PubSub/Publish/Publish.csproj",
+  "expectedPackageFiles": [
+    "/Users/lengocle/.nuget/packages/rabbitmq.client/6.4.0/rabbitmq.client.6.4.0.nupkg.sha512",
+    "/Users/lengocle/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/lengocle/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

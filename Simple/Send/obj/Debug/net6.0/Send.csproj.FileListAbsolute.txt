@@ -1,0 +1,17 @@
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Simple/Send/obj/Debug/net6.0/Send.csproj.AssemblyReference.cache
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Simple/Send/obj/Debug/net6.0/Send.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Simple/Send/obj/Debug/net6.0/Send.AssemblyInfoInputs.cache
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Simple/Send/obj/Debug/net6.0/Send.AssemblyInfo.cs
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Simple/Send/obj/Debug/net6.0/Send.csproj.CoreCompileInputs.cache
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Simple/Send/bin/Debug/net6.0/Send
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Simple/Send/bin/Debug/net6.0/Send.deps.json
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Simple/Send/bin/Debug/net6.0/Send.runtimeconfig.json
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Simple/Send/bin/Debug/net6.0/Send.dll
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Simple/Send/bin/Debug/net6.0/Send.pdb
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Simple/Send/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Simple/Send/obj/Debug/net6.0/Send.csproj.CopyComplete
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Simple/Send/obj/Debug/net6.0/Send.dll
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Simple/Send/obj/Debug/net6.0/refint/Send.dll
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Simple/Send/obj/Debug/net6.0/Send.pdb
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Simple/Send/obj/Debug/net6.0/Send.genruntimeconfig.cache
+/Users/lengocle/Documents/WorkPlace/RabbitMq/Simple/Send/obj/Debug/net6.0/ref/Send.dll

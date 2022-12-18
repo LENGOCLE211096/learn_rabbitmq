@@ -1,0 +1,15 @@
+/Users/lengocle/Documents/WorkPlace/RabbitMq/PubSub/Publish/bin/Debug/net6.0/Publish
+/Users/lengocle/Documents/WorkPlace/RabbitMq/PubSub/Publish/bin/Debug/net6.0/Publish.deps.json
+/Users/lengocle/Documents/WorkPlace/RabbitMq/PubSub/Publish/bin/Debug/net6.0/Publish.runtimeconfig.json
+/Users/lengocle/Documents/WorkPlace/RabbitMq/PubSub/Publish/bin/Debug/net6.0/Publish.dll
+/Users/lengocle/Documents/WorkPlace/RabbitMq/PubSub/Publish/bin/Debug/net6.0/Publish.pdb
+/Users/lengocle/Documents/WorkPlace/RabbitMq/PubSub/Publish/obj/Debug/net6.0/Publish.csproj.AssemblyReference.cache
+/Users/lengocle/Documents/WorkPlace/RabbitMq/PubSub/Publish/obj/Debug/net6.0/Publish.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lengocle/Documents/WorkPlace/RabbitMq/PubSub/Publish/obj/Debug/net6.0/Publish.AssemblyInfoInputs.cache
+/Users/lengocle/Documents/WorkPlace/RabbitMq/PubSub/Publish/obj/Debug/net6.0/Publish.AssemblyInfo.cs
+/Users/lengocle/Documents/WorkPlace/RabbitMq/PubSub/Publish/obj/Debug/net6.0/Publish.csproj.CoreCompileInputs.cache
+/Users/lengocle/Documents/WorkPlace/RabbitMq/PubSub/Publish/obj/Debug/net6.0/Publish.dll
+/Users/lengocle/Documents/WorkPlace/RabbitMq/PubSub/Publish/obj/Debug/net6.0/refint/Publish.dll
+/Users/lengocle/Documents/WorkPlace/RabbitMq/PubSub/Publish/obj/Debug/net6.0/Publish.pdb
+/Users/lengocle/Documents/WorkPlace/RabbitMq/PubSub/Publish/obj/Debug/net6.0/Publish.genruntimeconfig.cache
+/Users/lengocle/Documents/WorkPlace/RabbitMq/PubSub/Publish/obj/Debug/net6.0/ref/Publish.dll
